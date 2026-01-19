@@ -1,2 +1,2 @@
 # Fil-end_bot_picture
-A repo for storing the cute pictures Fil-end use in his work. Inspired by his lovely girl-friend @swzheng0103[https://github.com/swzheng0103]😆.
+A repo for storing the cute pictures Fil-end use in his work. Inspired by his lovely girl-friend [@swzheng0103](https://github.com/swzheng0103)😆.
